@@ -1,0 +1,35 @@
+{
+  "crops": [
+    {
+      "id": "402a",
+      "cropName": "potatoes",
+      "plantingDate": "2024-07-17",
+      "expectedHarvest": "2024-09-17"
+    }
+  ],
+  "livestock": [
+    {
+      "id": "639c",
+      "type": "sheep23",
+      "age": "2",
+      "health": "has mild headache",
+      "notes": "administer paracetamol"
+    }
+  ],
+  "taskname": [
+    {
+      "id": "8e95",
+      "taskName": "watering",
+      "taskDate": "2024-07-05",
+      "taskTime": "18:05",
+      "taskDescription": "cc"
+    },
+    {
+      "id": "122f",
+      "taskName": "watering",
+      "taskDate": "2024-07-17",
+      "taskTime": "22:40",
+      "taskDescription": "111"
+    }
+  ]
+}
